@@ -1,0 +1,27 @@
+ .image{
+    height: 100vh;
+    background-image: url(/peter-thomas-Z7gsrPiUzp4-unsplash.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+} 
+ .most{
+width: 100%;
+height:100%;
+display:flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+color:white;
+}
+.most p{
+    color:yellow;
+}
+.most h1{
+    letter-spacing: 5px;
+}
+
+
+
+    
